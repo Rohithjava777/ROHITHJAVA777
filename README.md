@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rajukamlam@gmail.com**
 
-- ⚡ Fun fact **I like doing leetcode on c**
+- ⚡ Fun fact **I like doing leetcode in c**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
